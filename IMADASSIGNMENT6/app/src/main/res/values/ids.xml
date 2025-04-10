@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="timeInput" type="id" />
+    <item name="suggestionDisplay" type="id">resetbtn</item>
+    <item name="resetButton" type="id">resetbtn</item>
+    <item name="mealsuggestion" type="id">btn</item>
+    <item name="seggestButton" type="id">button2</item>
+    <item name="inputTime" type="id">inputt</item>
+    <item name="suggestButton" type="id">bton 2</item>
+    <item name="suggestionOutput" type="id">btn3</item>
+</resources>

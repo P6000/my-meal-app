@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">IMAD ASSIGNMENT</string>
+    <string name="textview">TextView</string>
+    <string name="textview3_lt_textview_missing_constraints_in_constraintlayout"><![CDATA[textView3 <TextView>: Missing Constraints in ConstraintLayout]]></string>
+    <string name="button">Button</string>
+    <string name="button2">Button</string>
+    <string name="name">Name</string>
+    <string name="meal_buddy">MEAL BUDDY</string>
+    <string name="textview1">TextView</string>
+    <string name="reset">Reset</string>
+    <string name="suggest_meal">Suggest Meal</string>
+    <string name="your_meal_suggestion_will_appear_here">Your meal suggestion will appear here.</string>
+    <string name="enter_time_of_day_e_g_morning">Enter time of day (e.g., Morning)</string>
+    <string name="reset1">Reset</string>
+    <string name="suggest_meal1">Suggest Meal</string>
+    <string name="your_meal_suggestion_will_appear_here1">Your meal suggestion will appear here.</string>
+    <string name="enter_time_of_day_e_g_morning_afternoon">Enter time of day (e.g., morning, afternoon)</string>
+</resources>
